@@ -1,4 +1,4 @@
-# Dan Foreman-Mackey's CV
+# Elvis Soares's CV
 
 [![Auto update](https://github.com/dfm/cv/workflows/Auto%20update/badge.svg)](https://github.com/dfm/cv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://raw.githubusercontent.com/dfm/cv/main-pdf/tex/cv_pubs.pdf)
 
@@ -9,7 +9,7 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 ## Daniel Foreman-Mackey
 
  <span
-class="sans-serif">foreman.mackey@gmail.com, https://dfm.io</span>  
+class="sans-serif">elvis.asoares@gmail.com, https://elvissoares.github.io/</span>  
 Associate Research Scientist, Center for Computational Astrophysics,
 Flatiron Institute  
 
@@ -20,12 +20,9 @@ Flatiron Institute
 <div class="list">
 
 
-PhD 2015, Department of Physics, New York University. Advisor: Hogg
+PhD 2017, Department of Physics, Federal University of Rio de Janeiro (UFRJ), Brazil. Advisor: João R. T. de Mello Neto & Takeshi Kodama
 
-MSc 2010, Department of Physics, Queen’s University, Canada. Advisor:
-Widrow
-
-BSc 2008, Department of Physics, McGill University, Canada.
+BSc 2011, Department of Physics, Federal University of Rio de Janeiro, Brazil.
 
 </div>
 
@@ -36,24 +33,25 @@ BSc 2008, Department of Physics, McGill University, Canada.
 <div class="list">
 
 
-Associate Research Scientist, Flatiron Institute, 2017–present.
+PostDoctoral Fellow, School of Chemistry, UFRJ, 2020–present.
 
-Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
+Research Scientist, UFRJ, 2017–2019.
 
 </div>
 
 ## Publications
 
+<!---
  refereed: 74 / first author: 9 / citations: 10428 /
 h-index: 38 (2021-11-19)
-
+-->
 ## Refereed publications
 
 
 
 <div class="list">
 
-
+<!---
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
 giant planet with 2.7 per cent deep transits and a bound white dwarf
@@ -602,7 +600,7 @@ Functions](http://dx.doi.org/10.1088/0004-637X/762/2/123)*, The
 Astrophysical Journal, **762**, 123
 ([arXiv:1211.6105](http://arxiv.org/abs/1211.6105)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
-
+-->
 </div>
 
 ## Preprints & white papers
@@ -611,7 +609,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
+Coming soon 
+<!---
 Feinstein, Adina D.; David, Trevor J.; Montet, Benjamin T.;
 **Foreman-Mackey, Daniel**; *et al.*, 2021, V1298 Tau with TESS: Updated
 Ephemerides, Radii, and Period Constraints from a Second Transit of
@@ -670,7 +669,8 @@ Hogg, David W.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
 *et al.* (incl. **DFM**), 2013, Maximizing Kepler science return per
 telemetered pixel: Detailed models of the focal plane in the two-wheel
 era, ArXiv ([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
-
+-->
+ 
 </div>
 
 ## Selected invited talks & tutorials
@@ -679,7 +679,7 @@ era, ArXiv ([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
 
 <div class="list">
 
-
+<!---
 *Advanced probabilistic modeling*, 2021, Tutorial, Harley Wood Winter
 School of Astronomy, Australia.
 
@@ -754,7 +754,8 @@ deep learning*, 2014, Astro Hack Week, University of Washington.
 *An astronomer’s introduction to Gaussian processes*, 2014, Bayesian
 Computing for Astronomical Data Analysis (Summer school at Penn State
 University).
-
+-->
+ 
 </div>
 
 ## Popular open-source software
@@ -763,7 +764,7 @@ University).
 
 <div class="list">
 
-
+<!---
 [**emcee**](https://github.com/dfm/emcee) — 1188 stars / 403 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
@@ -790,7 +791,8 @@ Scalable 1D Gaussian Processes in C++, Python, and Julia
 [**daft**](https://github.com/daft-dev/daft) — 612 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
-
+-->
+ 
 </div>
 
 ## Grants
@@ -799,7 +801,7 @@ Render probabilistic graphical models using matplotlib
 
 <div class="list">
 
-
+<!---
 NSF-CDS&E (PI: Agol) *Development of fast, multi-dimensional Gaussian
 Processes for Exoplanet discovery and beyond*, $471,048.00, 2019–2022
 
@@ -815,7 +817,8 @@ crowded fields: A self-calibration approach*, $100,000, 2016–2017
 
 XSEDE (PI: Foreman-Mackey), *A systematic search for transiting
 exoplanets using K2*, 100,000 CPU hours, 2015–2016
-
+-->
+ 
 </div>
 
 ## Honors
@@ -824,7 +827,7 @@ exoplanets using K2*, 100,000 CPU hours, 2015–2016
 
 <div class="list">
 
-
+<!---
 Kavli Fellow, 2015.
 
 Sagan Postdoctoral Fellowship, 2015–2017.
@@ -836,7 +839,8 @@ Horizon Fellowship in the Natural & Physical Sciences, 2012.
 Henry M. MacCracken Fellowship, 2010.
 
 NSERC Undergraduate Summer Research Award, 2007.
-
+-->
+ 
 </div>
 
 ## Professional service & activities
@@ -845,10 +849,11 @@ NSERC Undergraduate Summer Research Award, 2007.
 
 <div class="list">
 
-
+<!---
 Topic Editor — Journal of Open Source Software
 
 Active Referee — AAS Journals, MNRAS, PASP, Journal of Statistical
 Software, Journal of Open Source Software
-
+-->
+ 
 </div>
