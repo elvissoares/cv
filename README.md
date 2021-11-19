@@ -10,8 +10,7 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
  <span
 class="sans-serif">elvis.asoares@gmail.com, https://elvissoares.github.io/</span>  
-Associate Research Scientist, Center for Computational Astrophysics,
-Flatiron Institute  
+PostDoctoral Fellow, School of Chemistry, UFRJ 
 
 ## Education
 
