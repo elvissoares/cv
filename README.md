@@ -6,7 +6,7 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 <hr>
 
-## Daniel Foreman-Mackey
+## Elvis do A. Soares
 
  <span
 class="sans-serif">elvis.asoares@gmail.com, https://elvissoares.github.io/</span>  
